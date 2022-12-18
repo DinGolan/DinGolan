@@ -80,7 +80,7 @@
   :technologist: Most Used Languages :technologist:
 </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinGolan&theme=vision-friendly-dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinGolan,itaital&theme=vision-friendly-dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
