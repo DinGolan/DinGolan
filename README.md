@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300"/>
   
   <div id="badges">
-    <a href="https://il.linkedin.com/in/din-golan-102a5b13b">
+    <a href="https://il.linkedin.com/in/din-golan">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
@@ -29,15 +29,17 @@
 </div>
 
 <!-- Adding a Banner GIF and About Me Section -->
-- :man_student: Graduated B.Sc In Computer Software Engineering at Ort Braude College. Dean list for four years.
-- :computer: Strong development skills in Python, C#, C++, C, Java, SQL.
-- :+1: Strong mathematical abilities and good analytical skills along with logical thinking and systemic vision as well as the ability to design and build a system independently.
+- :man_student: Graduated with a B.Sc. in Computer Software Engineering from Ort Braude College.
+- :man_student: Four years in a row, I have maintained Dean's List status during my studies.
+- :computer: Interested in Backend SW Positions, and willing to contribute my skills and experience.
+- :computer: Good knowledge of Python, C#, C++, C, Java, SQL.
+- :+1: Ability to solve problems logically and logically think, to be a critical thinker, to think in systems terms, and to design and build systems independently.
 - :+1: Ability to meet complex technological challenges, orientation for new technologies, fast learning, and proven ability to work on several projects simultaneously, high attention to detail.
-- :+1: Demonstrated work experience in the team and individually in work and projects in various frameworks, with good human relations.
+- :+1: Demonstrated teamwork and individual accomplishments in various work and project contexts with good interpersonal skills.
 - 📫 How to reach me :arrow_down:
 
 
-     [![Linkedin Badge](https://img.shields.io/badge/-Din%20Golan-blue?style=flat&logo=Linkedin&logoColor=white)](https://il.linkedin.com/in/din-golan-102a5b13b)
+     [![Linkedin Badge](https://img.shields.io/badge/-Din%20Golan-blue?style=flat&logo=Linkedin&logoColor=white)](https://il.linkedin.com/in/din-golan)
 
 ---
 
