@@ -8,8 +8,6 @@
     </a>
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=DinGolan&style=flat-square&color=blue&label=Profile Views" alt="Profile Views"/>
-  
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
      Hey There 
